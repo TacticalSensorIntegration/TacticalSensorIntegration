@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TacticalSensorIntegration
-- 👀 I’m interested in integration of sensors and feeds into Team Awareness Kit (TAK)
-- 📫 www.tacticalsensorintegration.com.au  or https://www.linkedin.com/company/tactical-sensor-integration
+-  @TacticalSensorIntegration
+- We integrate of sensors and feeds into Team Awareness Kit (TAK), but happy to help in other areas as well
+- www.tacticalsensorintegration.com.au  or https://www.linkedin.com/company/tactical-sensor-integration
 
 <!---
 TacticalSensorIntegration/TacticalSensorIntegration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
